@@ -1,0 +1,21 @@
+	
+	Algoritmo Calculo_de_Media
+	variaveis:
+	    inteiro: num1
+	    inteiro: num2
+	    inteiro: media
+	Inicio
+	 Escreval("Digite um número")
+	 Leia(num1)
+	 Escreval("Digite..")
+	 Leia(num2)
+	 media <-(num1+num2)/2
+	 Escreval(media)
+	Fim
+
+	VISUALG 3.0
+
+
+
+
+
